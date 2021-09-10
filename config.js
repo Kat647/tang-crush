@@ -9,11 +9,11 @@ const CONFIG = {
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
     btnYes: 'Vẫn cứ là thích cậu <33',
     btnNo: 'Không, bạn thân à :3',
-    question:'Trên thế giới hơn 7 tỉ nụ cười mà nụ cưởi của cậu là đẹp nhất <3',
+    question:'Trên thế giới hơn 7 tỉ nụ cười mà nụ cười của cậu là đẹp nhất <3',
     btnReply: 'Gửi cho tớ <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'Tớ biết mà 🥰. Yêu em nhiều nhiều 😘😘',
     messDesc: 'Tối nay cùng chia sẻ nhé công chúa.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com'
+    messLink: 'https://www.facebook.com/vominh.quan.3532/'
 }
